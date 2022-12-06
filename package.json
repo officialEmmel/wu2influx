@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "influx": "^5.9.3",
+    "weather-underground-node": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.11"
+  }
+}
